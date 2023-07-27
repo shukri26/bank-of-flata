@@ -9,7 +9,7 @@ The application will be available at http://localhost:3000/.
 
 ## deploymment
 
-- 
+- https://bank-of-flata-five.vercel.app/
 
 ## Features
 - View a list of transactions fetched from an API
@@ -33,5 +33,15 @@ MIT License
 ## Author
 This app was created and coded by 
     Mohamud shukri
-("https://github.com/Khadaryussuf")
+("https://github.com/shukri26")
+
+
+
+
+
+
+
+
+
+
 
